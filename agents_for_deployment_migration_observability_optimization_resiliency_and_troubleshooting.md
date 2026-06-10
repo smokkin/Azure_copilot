@@ -493,8 +493,7 @@ The Troubleshooting agent reduces the need to manually navigate Azure's many tro
 The Azure Copilot agents work in concert to automate the cloud management lifecycle end-to-end:
 
 
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                    AZURE COPILOT AGENT ECOSYSTEM                             │
+│                    AZURE COPILOT AGENT ECOSYSTEM                            │
 ├─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬───────┤
 │  Migration  │  Deployment │ Observability│ Optimization│  Resiliency │Troubleshooting│
 │   Agent     │   Agent     │   Agent     │   Agent     │   Agent     │   Agent       │
