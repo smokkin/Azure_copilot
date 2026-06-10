@@ -492,16 +492,16 @@ The Troubleshooting agent reduces the need to manually navigate Azure's many tro
 
 The Azure Copilot agents work in concert to automate the cloud management lifecycle end-to-end:
 
+## Azure Copilot Agent Ecosystem
 
-│                    AZURE COPILOT AGENT ECOSYSTEM                            │
-├─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬───────┤
-│  Migration  │  Deployment │ Observability│ Optimization│  Resiliency │Troubleshooting│
-│   Agent     │   Agent     │   Agent     │   Agent     │   Agent     │   Agent       │
-├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┼───────┤
-│ Move        │ Design &    │ Monitor &   │ Reduce      │ Ensure HA/  │ Fix issues  │
-│ workloads   │ deploy new  │ diagnose    │ costs &     │ DR posture  │ & resolve   │
-│ to Azure    │ infrastructure│ issues     │ tune perf   │             │ incidents   │
-└─────────────┴─────────────┴─────────────┴─────────────┴─────────────┴───────┘
+| Agent | Core Focus | Description |
+|---|---|---|
+| Migration Agent | Workload migration | Moves workloads to Azure |
+| Deployment Agent | Infrastructure deployment | Designs and deploys new infrastructure |
+| Observability Agent | Monitoring and diagnostics | Monitors systems and diagnoses issues |
+| Optimization Agent | Cost and performance | Reduces costs and tunes performance |
+| Resiliency Agent | Availability and DR | Ensures high availability and disaster recovery posture |
+| Troubleshooting Agent | Incident resolution | Fixes issues and resolves incidents |
 
 
 By delegating domain-specific tasks to each intelligent agent, Azure Copilot helps you:
