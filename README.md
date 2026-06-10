@@ -22,7 +22,7 @@ An AI-powered assistant for managing, optimizing, and troubleshooting Azure clou
 
 **Microsoft Copilot in Azure** is an AI assistant that uses Large Language Models (LLMs) combined with Azure telemetry to help in managing, optimizing, and troubleshooting cloud resources using natural language.
 
-For professionals, Copilot reduces time spent researching or reviewing documentation and writing scripts — enabling faster delivery of infrastructure, cost, and operational outcomes.
+For professionals, Copilot reduces time spent researching or reviewing documentation and writing scripts, enabling faster delivery of infrastructure, cost, and operational outcomes.
 
 ---
 
@@ -122,7 +122,7 @@ Copilot will:
 
 ## Takeaway
 
-> **Best Practice:** Use Copilot as an interactive assistant to speed routine cloud tasks — ask it to analyze resource state, produce or fix infrastructure code, and draft remediation steps.
+> **Best Practice:** Use Copilot as an interactive assistant to speed routine cloud tasks. Ask it to analyze resource state, produce or fix infrastructure code, and draft remediation steps.
 
 **Always:**
 - Review the proposed answer or plan before approving
